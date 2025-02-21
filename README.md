@@ -1,2 +1,2 @@
 # mouleesh_030
-sstudent
+student
